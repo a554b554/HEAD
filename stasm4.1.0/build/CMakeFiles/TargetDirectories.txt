@@ -1,0 +1,6 @@
+/Users/changxiao/Documents/research/ImageShaving/Head/stasm4.1.0/build/CMakeFiles/swas.dir
+/Users/changxiao/Documents/research/ImageShaving/Head/stasm4.1.0/build/CMakeFiles/minimal.dir
+/Users/changxiao/Documents/research/ImageShaving/Head/stasm4.1.0/build/CMakeFiles/tasm.dir
+/Users/changxiao/Documents/research/ImageShaving/Head/stasm4.1.0/build/CMakeFiles/minimal2.dir
+/Users/changxiao/Documents/research/ImageShaving/Head/stasm4.1.0/build/CMakeFiles/stasmMain.dir
+/Users/changxiao/Documents/research/ImageShaving/Head/stasm4.1.0/build/CMakeFiles/stasm.dir
